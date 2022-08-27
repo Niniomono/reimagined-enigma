@@ -1,0 +1,19 @@
+body {
+    color: green;
+    background-color: lightsteelblue;
+}
+.heading {
+    width:80%;
+    font-size: 22px;
+}
+.NombreDeObjetos {
+    color: crimson;
+}
+#camera {
+    border: 2px dashed royalblue;
+    height: 300px;
+    width: 350px;
+}
+.NombreDeObjetos, #Result_Object_Name , #Result_Object_Accuracy{
+ color:chocolate;
+}
